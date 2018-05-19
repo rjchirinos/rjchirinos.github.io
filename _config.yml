@@ -1,7 +1,7 @@
 # Site settings
 title: Raúl Chirinos
 description: Web Developer
-# baseurl: "/portafolio" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "rjchirinos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
