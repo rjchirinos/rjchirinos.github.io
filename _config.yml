@@ -1,14 +1,14 @@
 # Site settings
 title: Raúl Chirinos
 description: Web Developer
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "rjchirinos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "/" # the subpath of your site, e.g. /blog
+# url: "rjchirinos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Raúl Chirinos
 user_description: Mechanical engineering student by day and Developer by night. Python, Node.js, Django, HTML and Git. I also make amazing pizzas and drink lots of coffee
-user_title: Web Developer | Django
-email: anon@anon.com
+user_title: Python | Django Developer
+email: raulstuf@gmail.com
 twitter_username: RaulfullCode
 github_username:  rjchirinos
 gplus_username:  lorem_ipsum
