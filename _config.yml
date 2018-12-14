@@ -6,12 +6,13 @@ description: Web Developer
 
 # User settings
 username: Raúl Chirinos
-user_description: I am a Backend Web Developer and Django specialist based in Punto Fijo, Venezuela.<br>Love to build things and code for people and demogorgons sometimes.<br>I want to start my journey as Freelancer Web Developer.<br>Also love to make (and eat) pizzas and read books.
-user_title: Python | Django Developer
+user_description:
+  Server-side Web Development, Python and Node.js Scripting, MERN Stack projects<br>Web and App deployment, FrontEnd Experience with HTML5, CSS, JavaScript, jQuery, React.js.<br>Spanish and English speaker, Friendly personality and working compromise.<br>Also a pizza lover.
+user_title: Full Stack Web Developer
 email: raulstuf@gmail.com
 twitter_username: RaulfullCode
-github_username:  rjchirinos
-gplus_username:  lorem_ipsum
+github_username: rjchirinos
+gplus_username: lorem_ipsum
 
 # Google-analytics
 google-analytics:
