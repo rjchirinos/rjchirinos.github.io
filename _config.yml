@@ -1,5 +1,5 @@
 # Site settings
-title: Raúl Chirinos
+title: Raúl Chirinos | Web Solutions for Startups and Agencies
 description: Web Developer
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "rjchirinos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Web Developer
 # User settings
 username: Raúl Chirinos
 user_description:
-  I am a Full Stack Web Developer from Venezuela<br>Server-side Web Development, Python and Node.js Scripting, MERN Stack projects<br>Web and App deployment, FrontEnd Experience with HTML5, CSS, JavaScript, jQuery, React.js.<br>Spanish and English speaker, Friendly personality and working compromise.<br>Also a pizza lover.
+  I'm a Full Stack Web Developer based in Venezuela<br>Who love to work with startups, agencies and collaborate with talented people around the world<br>Building Web aplications with a wide range of technologies.
 user_title: Web Developer
 email: raulstuf@gmail.com
 twitter_username: RaulfullCode
