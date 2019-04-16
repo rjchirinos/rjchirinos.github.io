@@ -1,6 +1,7 @@
 # Site settings
 title: Raúl Chirinos | Web Solutions for Startups and Agencies
-description: Web Developer
+description:
+  Grow up your business launching up your website, reach bigger audience and buil a virtual presence with the support of new technologies and professional help.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 # url: "rjchirinos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -8,9 +9,9 @@ description: Web Developer
 username: Raúl Chirinos
 user_description:
   "I'm a Freelance Web Developer based in Venezuela<br>Who love to work with individuals, startups and collaborate with talented people around the world<br>Building Websites and applications with a wide range of technologies.
-  <br><br>My primary goal is to help new entrepreneurs and small business to reach higher markets and build web presence using the latest and more demanding development tendencies.
+  <br><br>My primary goal is to help new entrepreneurs and small business to reach larger markets and build web presence using the latest and more demanding development tendencies.
   <br><br>Here is what I do:"
-user_title: Web Developer
+user_title: Web Development
 email: raulstuf@gmail.com
 twitter_username: RaulfullCode
 github_username: rjchirinos
